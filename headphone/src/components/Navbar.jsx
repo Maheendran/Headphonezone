@@ -272,10 +272,12 @@ width="100%" height="700px"></iframe>
 {/* .... */}
 <div className='newlaunchsec'>
   <div>
+
   <h4>FRESH OFF THE BOAT, EXPLORE THE BEST IN AUDIOPHILIA RIGHT NOW</h4>
+
   </div>
 
-<div className='headingsec'>
+<div className='headingsec'>git push -u origin 'main'
   <h2>NEW LAUNCHES</h2>
 </div>
 
